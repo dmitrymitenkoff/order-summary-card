@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/dmitrymitenkoff/order-summary-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Order Card Component](https://order-summary-card-mu.vercel.app/)
 
 ## My process
 
